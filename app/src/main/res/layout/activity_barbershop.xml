@@ -1,0 +1,29 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    tools:context="com.danielgarcia.practica4.Barbershop">
+
+    <TextView
+        android:text="Es uno de los mejores sitios para la rumba en Cisneros.
+Ubicado en el parque principal, en el tercer piso del hotel el Turista.
+También encuentras: BARBER GYM, BARBER DISCO, BARBER FOOD, BARBER STUNT.
+Administradores:
+Carlos Andres Parra
+Diego León Rios"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView4" />
+
+    <Button
+        android:onClick="okbarbershop"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/ok"
+        android:id="@+id/button3"
+        android:layout_below="@+id/textView4"
+        android:layout_centerHorizontal="true" />
+
+</RelativeLayout>

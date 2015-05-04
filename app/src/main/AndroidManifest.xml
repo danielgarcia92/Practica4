@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.danielgarcia.practica4" >
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/CustomTheme" >
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".Hoteles"
+            android:label="@string/title_activity_hoteles" >
+        </activity>
+        <activity
+            android:name=".Bares"
+            android:label="@string/title_activity_bares" >
+        </activity>
+        <activity
+            android:name=".Turismo"
+            android:label="@string/title_activity_turismo" >
+        </activity>
+        <activity
+            android:name=".Demografia"
+            android:label="@string/title_activity_demografia" >
+        </activity>
+        <activity
+            android:name=".AcercaDe"
+            android:label="@string/title_activity_acerca_de"
+            android:theme="@style/Base.Theme.AppCompat.Light.Dialog.MinWidth" >
+        </activity>
+        <activity
+            android:name=".Barbershop"
+            android:label="@string/title_activity_barbershop"
+            android:theme="@style/Base.Theme.AppCompat.Light.Dialog.MinWidth" >
+        </activity>
+        <activity
+            android:name=".Jaras"
+            android:label="@string/title_activity_jaras"
+            android:theme="@style/Base.Theme.AppCompat.Light.Dialog.MinWidth" >
+        </activity>
+        <activity
+            android:name=".Babaros"
+            android:label="@string/title_activity_babaros"
+            android:theme="@style/Base.Theme.AppCompat.Light.Dialog.MinWidth" >
+        </activity>
+        <activity
+            android:name=".Lolita"
+            android:label="@string/title_activity_lolita"
+            android:theme="@style/Base.Theme.AppCompat.Light.Dialog.MinWidth" >
+        </activity>
+        <activity
+            android:name=".Cisneros"
+            android:label="@string/title_activity_cisneros"
+            android:theme="@style/Base.Theme.AppCompat.Light.Dialog.MinWidth" >
+        </activity>
+        <activity
+            android:name=".Hosteria"
+            android:label="@string/title_activity_hosteria"
+            android:theme="@style/Base.Theme.AppCompat.Light.Dialog.MinWidth" >
+        </activity>
+        <activity
+            android:name=".Charcos"
+            android:label="@string/title_activity_charcos" >
+        </activity>
+        <activity
+            android:name=".InfoCisneros"
+            android:label="@string/title_activity_info_cisneros"
+            android:theme="@style/Base.Theme.AppCompat.Light.Dialog.MinWidth" >
+        </activity>
+        <activity
+            android:name=".Motorrodillo"
+            android:label="@string/title_activity_motorrodillo" >
+        </activity>
+        <activity
+            android:name=".Locomotora"
+            android:label="@string/title_activity_locomotora" >
+        </activity>
+        <activity
+            android:name=".Museo"
+            android:label="@string/title_activity_museo" >
+        </activity>
+    </application>
+
+</manifest>

@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">Practica4</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_hoteles">Hoteles</string>
+    <string name="title_activity_bares">Bares</string>
+    <string name="title_activity_turismo">Turismo</string>
+    <string name="title_activity_demografia">Demografia</string>
+    <string name="title_activity_acerca_de">AcercaDe</string>
+    <string name="title_activity_barbershop">Barbershop</string>
+    <string name="title_activity_jaras">Jaras</string>
+    <string name="title_activity_babaros">Babaros</string>
+    <string name="title_activity_lolita">Lolita</string>
+    <string name="title_activity_cisneros">Cisneros</string>
+    <string name="title_activity_hosteria">Hosteria</string>
+    <string name="title_activity_charcos">Charcos</string>
+    <string name="hoteles">Hoteles</string>
+    <string name="bares">Bares</string>
+    <string name="turistico">Información Turistica</string>
+    <string name="demografia">Información Demográfica</string>
+    <string name="menuhoteles">Hoteles</string>
+    <string name="actividadHotel">Hoteles</string>
+    <string name="actividadBar">Bares</string>
+    <string name="Bar1">Barber Shop</string>
+    <string name="Bar2">Jaras</string>
+    <string name="Bar3">Babaros</string>
+    <string name="Hotel1">Lolita</string>
+    <string name="Hotel2">Cisneros</string>
+    <string name="Hotel3">Hosteria Brisas del Nus</string>
+    <string name="ok">OK</string>
+    <string name="actividadBarmensaje">En Cisneros puedes encontrar cantidades de bares y discotecas.
+    Algunos de estos son: </string>
+    <string name="actividadHotelmensaje">Hay gran variedad de hoteles.
+    los principales son:</string>
+    <string name="actividadTurismo">Información Turística</string>
+    <string name="actividadDemografia">Información Demográfica</string>
+    <string name="info">Acerca De ...</string>
+    <string name="AcercaDe">Aplicación informativa sobre el municipio de Cisneros, Antioquia.
+    Desarrollada por Yohrman Daniel García Vergara en el curso de Desarrollo para aplicaciones para Moviles de la Universidad de Antioquia.</string>
+    <string name="infoturismo">Cisneros ofrece a todos los turistas amantes del paisaje natural, un seductor periplo por lo mas profundo de la belleza paisajistica de la localidad.
+ALLI ENCUENTRAS CASCADAS QUE FORMAN BURBUJEANTES Y REFRESCANTES CHARCOS
+ADEMAS HAY TRADICIONALES TRAPICHES PANELEROS QUE PERFUMAN EL AIRE DEL LUGAR
+EL TÚNEL DE LA QUIEBRA,
+LAS ANTIGUAS ESTACIONES DEL FERROCARRIL DE EL LIMÓN Y CISNEROS;
+LA PRIMERA LOCOMOTORA QUE CRUZÓ EL TÚNEL DE LA QUIEBRA, LOCOMOTORA 45, EMBLEMA MUNICIPAL;
+LA PARROQUIA NUESTRA SEÑORA DEL CARMEN CON UN ESTILO ARQITECTÓNICO ÚNICO EN LATINOAMÉRICA;
+DEL ÚNICO MUSEO FERROVIARIO DE ANTIOQUIA.</string>
+    <string name="title_activity_info_cisneros">InfoCisneros</string>
+    <string name="title_activity_motorrodillo">Motorrodillo</string>
+    <string name="title_activity_locomotora">Locomotora</string>
+    <string name="title_activity_museo">Museo</string>
+
+</resources>
